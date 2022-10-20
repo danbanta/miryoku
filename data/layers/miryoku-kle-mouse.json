@@ -1,6 +1,6 @@
 [
   {
-    "name": "Miryoku",
+    "name": "Miryoku Mouse Layer",
     "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
@@ -24,7 +24,7 @@
     {
       "x": 6
     },
-    ""
+    "Copy"
   ],
   [
     {
@@ -39,11 +39,11 @@
     {
       "x": 4
     },
-    "",
+    "Paste",
     {
       "x": 1
     },
-    ""
+    "Cut"
   ],
   [
     {
@@ -54,7 +54,7 @@
     {
       "x": 2
     },
-    ""
+    "Redo"
   ],
   [
     {
@@ -64,7 +64,7 @@
     {
       "x": 10
     },
-    ""
+    "Undo"
   ],
   [
     {
@@ -173,21 +173,18 @@
   [
     {
       "y": -0.33999999999999986,
-      "x": 2.5,
-      "t": "#000000\n\n\n\n#ff00ff"
+      "x": 2.5
     },
     "",
     {
-      "x": 5,
-      "t": "#000000\n\n\n\n#ff0000"
+      "x": 5
     },
-    "2"
+    "Middle"
   ],
   [
     {
       "y": -0.16000000000000014,
       "c": "#888888",
-      "t": "#000000",
       "a": 4,
       "f": 2,
       "fa": [
@@ -204,11 +201,11 @@
       "f": 3,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -217,7 +214,6 @@
       "ry": 7.75,
       "y": -4.09,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#00ffff",
       "n": true
     },
     ""
@@ -227,7 +223,6 @@
       "r": 36,
       "y": -1,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#ffff00",
       "g": true
     },
     ""
@@ -238,19 +233,17 @@
       "rx": 9,
       "y": -4.09,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#00ff00",
       "g": false
     },
-    "1"
+    "Right"
   ],
   [
     {
       "r": -18,
       "y": -1,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#0000ff",
       "n": true
     },
-    "3"
+    "Left"
   ]
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Miryoku Fun Layer",
+    "name": "Miryoku Additional Features",
     "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
@@ -11,7 +11,7 @@
       "h": 0.5,
       "d": true
     },
-    "<b>Fun Layer</b>"
+    "<b>Additional Features</b>"
   ],
   [
     {
@@ -20,44 +20,39 @@
       "a": 7,
       "f": 3
     },
-    "F8",
+    "Extra",
     {
       "x": 6
     },
-    ""
+    "Extra"
   ],
   [
     {
       "y": -0.87,
       "x": 1
     },
-    "F7",
+    "Tap",
     {
       "x": 1
     },
-    "F9",
+    "Base",
     {
       "x": 4
     },
-    "",
+    "Base",
     {
       "x": 1
     },
-    ""
+    "Tap"
   ],
   [
     {
       "y": -0.8799999999999999,
-      "x": 4,
-      "f": 2,
-      "fa": [
-        3
-      ]
+      "x": 4
     },
-    "PrtScn <i>SysRq</i>",
+    "",
     {
-      "x": 2,
-      "f": 3
+      "x": 2
     },
     ""
   ],
@@ -65,93 +60,37 @@
     {
       "y": -0.75
     },
-    "F12",
+    "Boot",
     {
       "x": 10
     },
-    ""
+    "Boot"
   ],
   [
     {
       "y": -0.5,
       "x": 2
     },
-    "F5",
+    "",
     {
       "x": 6
     },
-    "Ctrl"
+    ""
   ],
   [
     {
       "y": -0.8700000000000001,
       "x": 1
     },
-    "F4",
+    "",
     {
       "x": 1,
       "n": true
     },
-    "F6",
+    "",
     {
       "x": 4,
       "n": true
-    },
-    "Shift",
-    {
-      "x": 1
-    },
-    "Alt"
-  ],
-  [
-    {
-      "y": -0.8799999999999999,
-      "x": 4,
-      "f": 2,
-      "fa": [
-        3
-      ]
-    },
-    "Scroll Lock",
-    {
-      "x": 2,
-      "f": 3
-    },
-    ""
-  ],
-  [
-    {
-      "y": -0.75
-    },
-    "F11",
-    {
-      "x": 10
-    },
-    "Super"
-  ],
-  [
-    {
-      "y": -0.5,
-      "x": 2
-    },
-    "F2",
-    {
-      "x": 6
-    },
-    ""
-  ],
-  [
-    {
-      "y": -0.8700000000000001,
-      "x": 1
-    },
-    "F1",
-    {
-      "x": 1
-    },
-    "F3",
-    {
-      "x": 4
     },
     "",
     {
@@ -162,16 +101,11 @@
   [
     {
       "y": -0.8799999999999999,
-      "x": 4,
-      "f": 2,
-      "fa": [
-        3
-      ]
+      "x": 4
     },
-    "Pause Break",
+    "",
     {
-      "x": 2,
-      "f": 3
+      "x": 2
     },
     ""
   ],
@@ -179,7 +113,58 @@
     {
       "y": -0.75
     },
-    "F10",
+    "",
+    {
+      "x": 10
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2
+    },
+    "Opp",
+    {
+      "x": 6
+    },
+    "Opp"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1
+    },
+    "",
+    {
+      "x": 1
+    },
+    "Cur",
+    {
+      "x": 4
+    },
+    "Cur",
+    {
+      "x": 1
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "",
+    {
+      "x": 2
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "",
     {
       "x": 10
     },
@@ -190,11 +175,9 @@
       "y": -0.33999999999999986,
       "x": 2.5
     },
-    "≣",
+    "",
     {
-      "x": 5,
-      "t": "#ff0000",
-      "g": true
+      "x": 5
     },
     ""
   ],
@@ -202,8 +185,6 @@
     {
       "y": -0.16000000000000014,
       "c": "#888888",
-      "t": "#000000",
-      "g": false,
       "a": 4,
       "f": 2,
       "fa": [
@@ -220,11 +201,11 @@
       "f": 3,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos//manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -235,7 +216,7 @@
       "x": -0.5,
       "n": true
     },
-    "Spc"
+    ""
   ],
   [
     {
@@ -243,15 +224,14 @@
       "y": -1,
       "x": -0.5
     },
-    "⭾"
+    ""
   ],
   [
     {
       "r": -36,
       "rx": 9,
       "y": -4.09,
-      "x": -0.5,
-      "t": "#00ff00"
+      "x": -0.5
     },
     ""
   ],
@@ -260,7 +240,6 @@
       "r": -18,
       "y": -1,
       "x": -0.5,
-      "t": "#0000ff",
       "n": true
     },
     ""

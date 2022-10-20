@@ -1,5 +1,7 @@
 [
   {
+    "name": "Miryoku (60_ansi subset mapping, no reverse angle)",
+    "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
   [
@@ -182,7 +184,7 @@
       "w": 5.75,
       "d": true
     },
-    "miryoku (60_ansi subset mapping, traditional stagger)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
+    "miryoku (60_ansi subset mapping, no reverse angle)\n<tt>github.com/manna-harbour/miryoku/</tt>\n\n\n\n\n<i>Manna Harbour</i>",
     {
       "x": 7.25,
       "a": 7,

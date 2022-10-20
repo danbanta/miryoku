@@ -1,6 +1,6 @@
 [
   {
-    "name": "Miryoku",
+    "name": "Miryoku Media Layer",
     "author": "Manna Harbour",
     "notes": "https://github.com/manna-harbour/miryoku/"
   },
@@ -24,7 +24,7 @@
     {
       "x": 6
     },
-    ""
+    "RGB Hue"
   ],
   [
     {
@@ -39,11 +39,11 @@
     {
       "x": 4
     },
-    "",
+    "RGB Mod",
     {
       "x": 1
     },
-    ""
+    "RGB Sat"
   ],
   [
     {
@@ -54,7 +54,7 @@
     {
       "x": 2
     },
-    ""
+    "RGB Tog"
   ],
   [
     {
@@ -64,7 +64,7 @@
     {
       "x": 10
     },
-    ""
+    "RGB Val"
   ],
   [
     {
@@ -107,7 +107,7 @@
     {
       "x": 2
     },
-    ""
+    "EP Tog"
   ],
   [
     {
@@ -128,7 +128,7 @@
     {
       "x": 6
     },
-    ""
+    "BT 1"
   ],
   [
     {
@@ -143,11 +143,11 @@
     {
       "x": 4
     },
-    "",
+    "BT 0",
     {
       "x": 1
     },
-    ""
+    "BT 2"
   ],
   [
     {
@@ -158,7 +158,7 @@
     {
       "x": 2
     },
-    ""
+    "Out Tog"
   ],
   [
     {
@@ -168,19 +168,17 @@
     {
       "x": 10
     },
-    ""
+    "BT 3"
   ],
   [
     {
       "y": -0.33999999999999986,
       "x": 2.5,
-      "t": "#000000\n\n\n\n#ff00ff",
       "g": true
     },
     "",
     {
       "x": 5,
-      "t": "#000000\n\n\n\n#ff0000",
       "g": false
     },
     "🔇"
@@ -189,7 +187,6 @@
     {
       "y": -0.16000000000000014,
       "c": "#888888",
-      "t": "#000000",
       "a": 4,
       "fa": [
         0,
@@ -210,11 +207,11 @@
       "a": 7,
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/manna-harbour-boa-32.png'>",
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/manna-harbour-boa-32.png'>",
     {
       "d": true
     },
-    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/miryoku-roa-32.png'>"
+    "<img src='https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png'>"
   ],
   [
     {
@@ -223,7 +220,6 @@
       "ry": 7.75,
       "y": -4.09,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#00ffff",
       "n": true
     },
     ""
@@ -232,8 +228,7 @@
     {
       "r": 36,
       "y": -1,
-      "x": -0.5,
-      "t": "#000000\n\n\n\n#ffff00"
+      "x": -0.5
     },
     ""
   ],
@@ -242,8 +237,7 @@
       "r": -36,
       "rx": 9,
       "y": -4.09,
-      "x": -0.5,
-      "t": "#000000\n\n\n\n#00ff00"
+      "x": -0.5
     },
     "◼"
   ],
@@ -252,7 +246,6 @@
       "r": -18,
       "y": -1,
       "x": -0.5,
-      "t": "#000000\n\n\n\n#0000ff",
       "n": true
     },
     "⏯"
